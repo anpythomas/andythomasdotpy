@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andythomasdotpy
 - 👀 I’m interested in automation, big data and web-development with Python
-- 🌱 I’m currently learning Google Analytics API
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me andythomas.py@gmail.com
 
 <!---
